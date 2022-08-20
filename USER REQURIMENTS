@@ -1,0 +1,48 @@
+1. Introduction 
+   1.1 Purpose 
+   The purpose of this project is to build a basic organsation website
+   1.2 Scope
+   the organsitan is requried to represent there company
+   1.3 Overview
+   This project contains the following parts:
+   1)Backened Deveploment
+   2)Frontend deveploment
+   3)General purpose
+2. General description
+   The purpose of this source is to make a organsation website for a company
+   information of the company 
+   produtcs and description
+   
+3. Fundamental requirement 
+3.1 Description
+The Requriment that are used in this project are:
+1)Software Requriments :Domain , web hosting, software
+2)Hardware Requriments: server , admin ,internet
+   3.2 Technical issues
+  They include both bugs Glicthes ,Traffic 
+4. Interface requirement 
+   4.1 GUI
+   it must contain images
+   
+   4.2 Hardware interface
+   It  has server and admin pc to contol and mange the website
+   4.3 Software interface
+   Login page , information of company 
+5. Performance requirement
+products purchase and their company info
+6. Resign constraint 
+it must contain all the data base of customers 
+7. Other non functional attributes 
+   7.1 Security 
+   It has high end seurity for login 
+   7.2 Reliability 
+   The wqebsite is very reailble as it provides all information of company  
+   7.3 Availability 
+   It is avalabile for everyone on the intwernet 
+   7.4 Maintainability
+   The website is really easy to maintainas it is mainted with web hosting 
+   7.5 Reusability
+   This website can be resued by other games 
+8. Operational scenarios 
+It works on normal situations with proper amount of work
+9. Preliminary schedule
